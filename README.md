@@ -17,7 +17,7 @@ This lab is for **educational purposes only**. Do not scan, attack, or exploit s
 
 ---
 
-## Quick Setup (very short)
+## Quick Setup 
 1. Install **VirtualBox** on your host machine.  
 2. Download and verify **Kali Linux** ISO (attacker VM).  
 3. Download a **Windows Server** evaluation ISO (target VM).  
