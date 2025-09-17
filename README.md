@@ -1,4 +1,4 @@
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 
 
 # Fantom-Forge-101 Security Lab
@@ -41,10 +41,9 @@ This lab is for **educational purposes only**. Do not scan, attack, or exploit s
 
 
 
-MIT License
+MIT License          [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Copyright (c) 2025 Fatao
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-...
-(the rest is identical to the MIT text above)
+
